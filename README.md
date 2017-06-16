@@ -6,3 +6,7 @@ Artificial Neural Network using TensorFlow
 ## Dataset
 
 IRIS Dataset
+
+## Accuracy
+
+72%
